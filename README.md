@@ -1,7 +1,9 @@
 - 👋 Hi, I’m @SocialBlockSol
-- 👀 I’m interested in Blockchain and Smart Contract Development, Website Development, UX/UI Development, and social justice.
-- 🌱 I’m currently learning so many different things because that's who I am.
-- 💞️ I’m looking to collaborate on making the world a better place through bloackchain technology
+- 🤓 I have experience in designing, developing, and maintianing high-profile sites for government agnecies and 
+     smaller ones for boutique like businesses.
+- 👀 I’m passionate about creating websites that are grounded in modern UX/UI design principles. 
+- 🌱 I’m always refining my skillset and learning new things because that's who I am. 
+- 💞️ I aim to leverage my expertise in web-development to modernize, standardize, and imporve sites for buinesses. 
 - 📫 Contact: coderock00@gmail.com 
 
 <!---
